@@ -1,0 +1,8 @@
+Testing Data
+https://microsoftedge.github.io/Demos/json-dummy-data/
+
+
+Command to generate specific size file:
+dd bs=1024 count=1024 if=/dev/random of=bigfile // 1 MB file
+dd bs=5120 count=5120 if=/dev/random of=bigfile // 5 MB file
+
